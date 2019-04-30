@@ -1,4 +1,4 @@
-# The Asian-workshop on Symmetric Key Cryptography (ASK)
+# The ASK Workshop
 
 The goal of the Asian-workshop on Symmetric Key Cryptography is to promote research on symmetric key cryptography (block ciphers, stream ciphers, hash functions, analysis, designs, proofs and implementations of these primitives etc) in Asia. The program usually contains two parts: invited talks in the morning, group discussions in the afternoon. This workshop targets mainly for students and young researchers to learn and work in small interest groups.
 
@@ -6,7 +6,7 @@ Any researcher (even not based in Asia) is welcome to contact us for participanc
 
 
 # News
-- ASK 2019 to be held in Japan ! 
+- [ASK 2019](https://askworkshop.github.io/ask2019/) to be held in Japan ! 
 
 
 # Previous events
