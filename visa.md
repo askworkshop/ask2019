@@ -9,4 +9,4 @@ sidebar:
     nav: "docs"
 ---
 
-Please find all the details for an getting a VISA [here](www.google.com) 
+Please find all the details for an getting a VISA [here](https://www.sg.emb-japan.go.jp/itpr_en/visit.html) 
