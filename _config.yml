@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The 9th Asian-workshop on Symmetric Key Cryptography (ASK)"
+title                    : "The 9th Asian-workshop on Symmetric Key Cryptography (ASK 2019)"
 title_separator          : "-"
 name                     : "ASK"
 description              : "The website of the 9th Asian-workshop on Symmetric Key Cryptography (ASK)"
@@ -283,10 +283,6 @@ defaults:
       related: false
       toc: false
       classes: wide
-      sidebar:
-      - title: " "
-        image: /assets/images/ntu-logo-blue-transparent-side.png
-        image_alt: "image"
-        nav: "docs"
+      
 
 
