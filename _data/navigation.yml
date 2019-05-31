@@ -8,7 +8,7 @@ main:
   - title: "Venue"
     url: /venue/
   - title: "Contact"
-    url: /contact/
+    url: /#contact
 
 docs:    
   - title: Home
@@ -40,4 +40,7 @@ docs:
       url: /travel/
     - title: Visa
       url: /visa/    
+
+  -title: Previous Workshops 
+   url: "https://askworkshop.github.io/ask/"
 
