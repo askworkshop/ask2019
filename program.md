@@ -12,7 +12,7 @@ sidebar:
 
 # Program 
 
-You can find [here](www.google.com) a pdf version of the program.
+You can find [here]("www.google.com") a pdf version of the program.
 
 ---
 ## Monday, 1 April 2019
