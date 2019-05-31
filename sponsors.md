@@ -9,4 +9,6 @@ sidebar:
     nav: "docs"
 ---
 
+# Sponsors
+
 We are very grateful to the following organizations who generously sponsored the event.
