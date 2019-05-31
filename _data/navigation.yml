@@ -8,7 +8,7 @@ main:
   - title: "Venue"
     url: /venue/
   - title: "Contact"
-    url: /#contact
+    url: /#contact-information
 
 docs:    
   - title: Home
