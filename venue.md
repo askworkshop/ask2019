@@ -11,4 +11,4 @@ sidebar:
 
 # Venue
 
-ASK 2019 will be held in ...
+ASK 2019 will be held in Hyogo University, Japan
