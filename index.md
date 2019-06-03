@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-Welcome to the home page of the **9th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held on three days at *University of Hyogo*, Kobe Campus for Information Science, Japan, starting on **December 13th until December 15th, 2019**.
+Welcome to the home page of the **9th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held on three days at *University of Hyogo*, Kobe Campus for Information Science, Japan, starting on **December 13th until December 15th, 2019**. The workshop is collocated with [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/) that will be held just before ASK 2019 (the two events are very close, so you can use the same accomodation).
 
 ASK has been held to promote research on symmetric-key cryptography in Asia since 2011. Broadly, the scope of the workshop includes, but is not limited to:
 
@@ -31,9 +31,8 @@ The general co-chairs can be contacted by email at:
 
 **Takanori Isobe**  
 University of Hyogo, Japan  
-takanori.isobe(at)ai(dot)u-hyogo(dot)ac(dot)jp   
+takanori(dot)isobe(at)ai(dot)u-hyogo(dot)ac(dot)jp   
 
 **Yu Sasaki**  
 NTT, Japan  
-sasaki.yu(at)lab(dot)ntt(dot)co(dot)jp  
-
+yu(dot)sasaki(dot)sk(at)hco(dot)ntt(dot)co(dot)jp
