@@ -22,6 +22,6 @@ sidebar:
 
 ## Getting to the workshop
 
-### TBA
+### To be announced
 <!--![Getting to Hyogo University](http://www.hyogo-dai.ac.jp/en/about/img/Access_img_01.png) -->
 
