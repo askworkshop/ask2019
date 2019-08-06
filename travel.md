@@ -22,4 +22,6 @@ sidebar:
 
 ## Getting to the workshop
 
-![Getting to Hyogo University](http://www.hyogo-dai.ac.jp/en/about/img/Access_img_01.png)
+### TBA
+<!--![Getting to Hyogo University](http://www.hyogo-dai.ac.jp/en/about/img/Access_img_01.png) -->
+
