@@ -20,8 +20,6 @@ docs:
       url: /invited/
     - title: Group Sessions
       url: /groups/
-    - title: Sponsors
-      url: /sponsors/
     - title: Contact
       url: /#contact-information
         
@@ -36,8 +34,7 @@ docs:
       url: /accommodation/
     - title: Travel info
       url: /travel/
-    - title: Visa
-      url: /visa/    
+
 
   - title: Previous Workshops 
     url: "https://askworkshop.github.io/ask/"
