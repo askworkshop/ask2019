@@ -26,8 +26,9 @@ You can find previous ASK workshops [here](https://askworkshop.github.io/ask/)
 
 # Contact information
 
-The general co-chairs can be contacted by email at:  
+The general co-chairs can be contacted by email at ask2019@googlegroups.com  
 
+<!--
 **Takanori Isobe**  
 University of Hyogo, Japan  
 takanori(dot)isobe(at)ai(dot)u-hyogo(dot)ac(dot)jp   
@@ -35,3 +36,4 @@ takanori(dot)isobe(at)ai(dot)u-hyogo(dot)ac(dot)jp
 **Yu Sasaki**  
 NTT, Japan  
 yu(dot)sasaki(dot)sk(at)hco(dot)ntt(dot)co(dot)jp
+-->
