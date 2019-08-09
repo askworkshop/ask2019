@@ -26,7 +26,7 @@ You can find previous ASK workshops [here](https://askworkshop.github.io/ask/)
 
 # Contact information
 
-The general co-chairs can be contacted by email at ask2019@googlegroups.com  
+The general co-chairs can be contacted by email at ask2019(at)googlegroups(dot)com  
 
 <!--
 **Takanori Isobe**  
