@@ -31,8 +31,6 @@ The general co-chairs can be contacted by email at ask2019(at)googlegroups(dot)c
 
 **Takanori Isobe**  
 University of Hyogo, Japan  
-takanori(dot)isobe(at)ai(dot)u-hyogo(dot)ac(dot)jp   
 
 **Yu Sasaki**  
 NTT, Japan  
-yu(dot)sasaki(dot)sk(at)hco(dot)ntt(dot)co(dot)jp
