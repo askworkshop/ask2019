@@ -30,6 +30,6 @@ The general co-chairs can be contacted by email at ask2019(at)googlegroups(dot)c
 
 <ul>
 <li>Takanori Isobe(University of Hyogo, Japan)</li>
-<li>Yu Sasaki(NTT, Japan)</li>
+<li>Yu Sasaki(NTT Secure Platform Laboratories, Japan)</li>
 </ul>
 
