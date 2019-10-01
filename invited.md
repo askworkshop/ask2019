@@ -24,3 +24,6 @@ sidebar:
 - Fukang Liu (University of Hyogo, Japan)
 - Subhadeep Banik (EPFL, Switzerland)
 - Rei Ueno (Tohoku University, Japan)
+- Ashwin Jha (Indian Statistical Institute, India)
+- Mustafa Mahmoud Mohammed Kairallah (Nanyang Technological University, Singapore)
+- Mridul Nandi (Indian Statistical Institute, India)
