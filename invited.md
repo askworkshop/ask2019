@@ -27,3 +27,4 @@ sidebar:
 - Ashwin Jha (Indian Statistical Institute, India)
 - Mustafa Mahmoud Mohammed Kairallah (Nanyang Technological University, Singapore)
 - Mridul Nandi (Indian Statistical Institute, India)
+- Orr Dunkelman (University of Haifa, Israel)
