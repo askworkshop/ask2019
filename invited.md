@@ -25,6 +25,6 @@ sidebar:
 - Subhadeep Banik (EPFL, Switzerland)
 - Rei Ueno (Tohoku University, Japan)
 - Ashwin Jha (Indian Statistical Institute, India)
-- Mustafa Mahmoud Mohammed Kairallah (Nanyang Technological University, Singapore)
+- Mustafa Khairallah (Nanyang Technological University, Singapore)
 - Mridul Nandi (Indian Statistical Institute, India)
 - Orr Dunkelman (University of Haifa, Israel)
