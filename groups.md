@@ -8,7 +8,9 @@ sidebar:
     image_alt: "image"
     nav: "docs"
 ---
-#confirmed participants
+# Group Sessions
+
+## confirmed participants
 
 - Eik List (Bauhaus-Universität Weimar, Germany)
 - Reinhard Lüftenegger (Graz University of Technology,Austria)
@@ -40,7 +42,7 @@ sidebar:
 - Nilanjan Datta (Indian Statistical Institute, India)
 - Jyotirmoy Basak (Indian Statistical Institute, India)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
-# Group Sessions
+
 
 ## Group 1: Cryptanalysis
 - Bill
