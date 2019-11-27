@@ -12,6 +12,7 @@ sidebar:
 # Confirmed Invited Speakers
 
 - Carlos Cid (Royal Holloway, University of London, UK)
+  "Domain Specific Ciphers"
 - Subhadeep Banik (EPFL, Switzerland)
   "Cryptanalysis of Stream Ciphers with short internal states"
 - Willi Meier (FHNW, Switzerland)
