@@ -34,7 +34,6 @@ sidebar:
 - Gaoli Wang (East China Normal University, China)
 - Akiko Inoue (NEC Corporation, Japan)
 - Li Yang (The University of Electro-Communications, Japan)
-- Yusuke Naito (Mitsubishi Corporation, Japan)
 - Kazumaro Aoki (NTT, Japan)
 - Jooyoung Lee (KAIST, Korea)
 - Wonseok Choi (KAIST, Korea)
