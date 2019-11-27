@@ -38,8 +38,6 @@ sidebar:
 - Jooyoung Lee (KAIST, Korea)
 - Wonseok Choi (KAIST, Korea)
 - Byeonghak Lee (KAIST, Korea)
-- Nilanjan Datta (Indian Statistical Institute, India)
-- Jyotirmoy Basak (Indian Statistical Institute, India)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 - Bing Sun (National University of Defense Technology, China)
 <!--
