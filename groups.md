@@ -41,7 +41,7 @@ sidebar:
 - Nilanjan Datta (Indian Statistical Institute, India)
 - Jyotirmoy Basak (Indian Statistical Institute, India)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
-
+- Bing Sun (National University of Defense Technology, China)
 <!--
 ## Group 1: Cryptanalysis
 - Bill
