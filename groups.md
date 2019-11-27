@@ -42,7 +42,7 @@ sidebar:
 - Jyotirmoy Basak (Indian Statistical Institute, India)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 
-
+<!--
 ## Group 1: Cryptanalysis
 - Bill
 - Jack
@@ -54,3 +54,4 @@ sidebar:
 ## Group 3: proofs
 - Mike
 - Paul
+-->
