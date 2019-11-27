@@ -11,7 +11,6 @@ sidebar:
 
 # Confirmed Invited Speakers
 
-- Bing Sun (National University of Defense Technology, China)
 - Carlos Cid (Royal Holloway, University of London, UK)
 - Subhadeep Banik (EPFL, Switzerland)
   "Cryptanalysis of Stream Ciphers with short internal states"
@@ -38,4 +37,4 @@ sidebar:
 - Rei Ueno (Tohoku University, Japan)
   "Hardware Implementation of Block Cipher: Case Study Using AES"
 - Yusuke Naito (Mitsubishi Corporation, Japan)
-
+  "Design of Optimally Indifferentiable-Secure Double-Block-Length Hashing"
