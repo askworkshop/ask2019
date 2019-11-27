@@ -41,6 +41,7 @@ sidebar:
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 - Bing Sun (National University of Defense Technology, China)
 <!--
+
 ## Group 1: Cryptanalysis
 - Bill
 - Jack
@@ -52,4 +53,5 @@ sidebar:
 ## Group 3: proofs
 - Mike
 - Paul
+
 -->
