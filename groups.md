@@ -40,6 +40,8 @@ sidebar:
 - Byeonghak Lee (KAIST, Korea)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 - Bing Sun (National University of Defense Technology, China)
+
+
 <!--
 
 ## Group 1: Cryptanalysis
