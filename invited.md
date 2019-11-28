@@ -20,6 +20,7 @@ sidebar:
 - Orr Dunkelman (University of Haifa, Israel)
   "Cryptanalysis of Lightweight Block Ciphers: Theory Meets Dependencies"
 - Thomas Peyrin (Nanyang Technological University, Singapore)
+  “SHA-1: Beating a Dead Horse”
 - Mustafa Kairallah (Nanyang Technological University, Singapore)
   "Lightweight TBC-Based Modes for Small Hardware Implementations"
 - Zhenzhen Bao (Nanyang Technological University, Singapore)
@@ -29,6 +30,7 @@ sidebar:
 - Siwei Sun (Chinese Academy of Sciences, China)
  "Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS"
 - Akinori Hosoyamada (NTT, Japan)
+  "Towards a better understanding of (post-)quantum security of symmetric key schemes"
 - Kazuhiko Minematsu (NEC, Japan)
   "Detection of data corruption via combinatorial group testing and beyond"
 - Kazuo Sakiyama (The University of Electro-Communications, Japan)
