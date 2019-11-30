@@ -18,7 +18,7 @@ sidebar:
 - Jing Yang (Lund university, Sweden)
 - Patrick Derbez (Université Rennes 1, France)
 - Ferdinand Sibleyra (INRIA, France)
-- Jonathan Fuchs	(Radboud University, Netherlands)
+- Jonathan Fuchs (Radboud University, Netherlands)
 - Lenka Marekova (Royal Holloway, University of London, UK)
 - Quan Quan Tan (Nanyang Technological University, Singapore)
 - Yingjie Zhang (Chinese Academy of Sciences, China)
@@ -27,7 +27,7 @@ sidebar:
 - Zejun Xiang (Hubei University, China)
 - Siwei Chen (Hubei University, China)
 - Yi Zhang (National university of defence technology, China)
-- Yongzhuang Wei	(Guilin University of Electronic Technology, China)
+- Yongzhuang Wei (Guilin University of Electronic Technology, China)
 - Zhao  Haixia (Guilin University of Electronic Technology, China)
 - Li  Lingchen (Guilin University of Electronic Technology, China)
 - Ye  Tao (Guilin University of Electronic Technology, China)
@@ -40,6 +40,7 @@ sidebar:
 - Byeonghak Lee (KAIST, Korea)
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 - Bing Sun (National University of Defense Technology, China)
+- Siang Meng Sim (DSO lab., Singapore)
 
 
 <!--
