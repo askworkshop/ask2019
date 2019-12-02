@@ -73,7 +73,9 @@ sidebar:
   Willi Meier (FHNW, Switzerland)
  - Generic Attacks on Hash Combiners
   Zhenzhen Bao (Nanyang Technological University, Singapore)
- - 
+ - Rotational-XOR cryptanalysis on ARX and AND-RX ciphers,
+  Yunwen Liu (National University of Defense Technology, China)
+  
 *11:00 - 11:30*: Coffee break  
 *11:30 - 12:30*: Invited talk 6
 
