@@ -18,16 +18,16 @@ sidebar:
   "Domain Specific Ciphers"
 - Akinori Hosoyamada (NTT, Japan)
   "Towards a better understanding of (post-)quantum security of symmetric key schemes"
----
 
+---
 ### invited talk2 (11:30 ~ 12:30 on Dec 13th)  
 ---
 - Fukang Liu (University of Hyogo, Japan)
   "Cryptanalysis of Reduced Gimli-Hash"
 - Thomas Peyrin (Nanyang Technological University, Singapore)
   “SHA-1: Beating a Dead Horse”
----
 
+---
 ### invited talk3 (9:30 ~ 11:00 on Dec 14th)
 ---
 - Orr Dunkelman (University of Haifa, Israel)
@@ -36,16 +36,16 @@ sidebar:
   "Detection of data corruption via combinatorial group testing and beyond"
 - Rei Ueno (Tohoku University, Japan)
   "Hardware Implementation of Block Cipher: Case Study Using AES"
----
 
+---
 ### invited talk4 (11:30 ~ 12:30 on Dec 14th)
 ---
 - Subhadeep Banik (EPFL, Switzerland)
   "Cryptanalysis of Stream Ciphers with short internal states"
 - Siwei Sun (Chinese Academy of Sciences, China)
  "Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS"
----
 
+---
 ### invited talk5 (9:30 ~ 11:00 on Dec 15th)
 ---
 - Willi Meier (FHNW, Switzerland)
@@ -54,8 +54,8 @@ sidebar:
   "Generic Attacks on Hash Combiners"
 - Yunwen Liu (National University of Defense Technology, China)
   “Rotational-XOR cryptanalysis on ARX and AND-RX ciphers”
----
 
+---
 ### invited talk5 (11:30 ~ 12:30 on Dec 15th)
 ---
 - Yusuke Naito (Mitsubishi Corporation, Japan)
