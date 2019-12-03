@@ -41,7 +41,7 @@ sidebar:
 - Dhiman Saha (Indian Institute of Technology Bhilai, India)
 - Bing Sun (National University of Defense Technology, China)
 - Siang Meng Sim (DSO National Laboratories, Singapore)
-
+- Christian Rechberger (Graz University of Technology, Austria)
 
 <!--
 
