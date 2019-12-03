@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 # Group Sessions
-<h2>Groups and members of each group are as follows.<\h2>
+Groups and members of each group are as follows.
 
 ### Group A-1: Cryptanalysis 1
 ---
