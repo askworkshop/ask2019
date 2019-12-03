@@ -9,11 +9,10 @@ sidebar:
     nav: "docs"
 ---
 # Group Sessions
-Groups and members of each group are as follows.
+<h2>Groups and members of each group are as follows.<\h2>
 
 ### Group A-1: Cryptanalysis 1
 ---
-- Group members are as follows.
 - Orr Dunkelman
 - Subhadeep Banik
 - Zhenzhen Bao
