@@ -12,6 +12,7 @@ sidebar:
 Groups and members of each group are as follows.
 
 ### Group A-1: Cryptanalysis 1
+---
 - Group members are as follows.
 - Orr Dunkelman
 - Subhadeep Banik
@@ -24,6 +25,7 @@ Groups and members of each group are as follows.
 - Christian Rechberger
 
 ### Group A-2: Cryptanalysis 2
+---
 - Patrick Derbez
 - Willi Meier
 - Ling Song
@@ -34,6 +36,7 @@ Groups and members of each group are as follows.
 - LI  Lingchen
 
 ### Group A-3: Cryptanalysis 3
+---
 - Dhiman Saha
 - Siwei Sun
 - Ferdinand Sibleyras
@@ -44,6 +47,7 @@ Groups and members of each group are as follows.
 - Yu Sasaki
 
 ### Group B: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations
+---
 - Rei Ueno
 - Yongzhuang Wei
 - Zhao  Haixia      
@@ -54,6 +58,7 @@ Groups and members of each group are as follows.
 - Gaoli Wang
 
 ### Group C: Design and analysis of mode of operation
+---
 - Kazuhiko Minematsu
 - Yusuke Naito
 - Akiko Inoue
@@ -63,7 +68,8 @@ Groups and members of each group are as follows.
 - Byeonghak Lee
 - Eik List
 
-### Group D: (Post)-Quantum symmetric-key schemes.
+### Group D: (Post)-Quantum symmetric-key schemes
+---
 - Yunwen Liu
 - Akinori Hosoyamada
 - Carlos Cid
