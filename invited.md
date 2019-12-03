@@ -42,8 +42,10 @@ sidebar:
 - Siwei Sun (Chinese Academy of Sciences, China),
  "Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS"
 
-### invited talk5 (9:30 ~ 11:00 on Dec 15th)
+### invited talk5 (<b>9:00<\b> ~ 11:00 on Dec 15th)
 ---
+- Christian Rechberger (Graz University of Technology, Austria),
+ "A tale of 3 competitions: On cryptanalysis competitions for new use-cases of symmetric crypto"
 - Willi Meier (FHNW, Switzerland),
   "Cube Attacks on KECCAK Keyed Modes"
 - Zhenzhen Bao (Nanyang Technological University, Singapore),
