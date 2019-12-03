@@ -67,8 +67,10 @@ sidebar:
 ---
 ## Sunday, 15th December 2019
 
-*09:30 - 11:00*: Invited talk 5
+*<b>09:00<\b> - 11:00*: Invited talk 5
 
+ - A tale of 3 competitions: On cryptanalysis competitions for new use-cases of symmetric crypto
+  Christian Rechberger
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
  - Generic Attacks on Hash Combiners
