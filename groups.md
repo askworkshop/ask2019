@@ -9,52 +9,62 @@ sidebar:
     nav: "docs"
 ---
 # Group Sessions
+Groups and members of each group are as follows.
 
-## confirmed participants
+### Group A-1: Cryptanalysis 1
+- Group members are as follows.
+- Orr Dunkelman
+- Subhadeep Banik
+- Zhenzhen Bao
+- Mustafa Mahmoud Mohammed Kairallah
+- Jonathan Fuchs
+- Li Yang
+- Kazuo Sakiyama
+- Jing Yang
+- Christian Rechberger
 
-- Eik List (Bauhaus-Universität Weimar, Germany)
-- Reinhard Lüftenegger (Graz University of Technology,Austria)
-- Navid Ghaedi Bardeh (University of Bergen)
-- Jing Yang (Lund university, Sweden)
-- Patrick Derbez (Université Rennes 1, France)
-- Ferdinand Sibleyra (INRIA, France)
-- Jonathan Fuchs (Radboud University, Netherlands)
-- Lenka Marekova (Royal Holloway, University of London, UK)
-- Quan Quan Tan (Nanyang Technological University, Singapore)
-- Yingjie Zhang (Chinese Academy of Sciences, China)
-- Ling Song (Chinese Academy of Sciences, China)
-- Danping Shi (Chinese Academy of Sciences, China)
-- Zejun Xiang (Hubei University, China)
-- Siwei Chen (Hubei University, China)
-- Yi Zhang (National university of defence technology, China)
-- Yongzhuang Wei (Guilin University of Electronic Technology, China)
-- Zhao  Haixia (Guilin University of Electronic Technology, China)
-- Li  Lingchen (Guilin University of Electronic Technology, China)
-- Ye  Tao (Guilin University of Electronic Technology, China)
-- Gaoli Wang (East China Normal University, China)
-- Akiko Inoue (NEC Corporation, Japan)
-- Li Yang (The University of Electro-Communications, Japan)
-- Kazumaro Aoki (NTT, Japan)
-- Jooyoung Lee (KAIST, Korea)
-- Wonseok Choi (KAIST, Korea)
-- Byeonghak Lee (KAIST, Korea)
-- Dhiman Saha (Indian Institute of Technology Bhilai, India)
-- Bing Sun (National University of Defense Technology, China)
-- Siang Meng Sim (DSO National Laboratories, Singapore)
-- Christian Rechberger (Graz University of Technology, Austria)
+### Group A-2: Cryptanalysis 2
+- Patrick Derbez
+- Willi Meier
+- Ling Song
+- Danping Shi
+- Lenka Marekova
+- Reinhard Lüftenegger
+- Zejun Xiang
+- LI  Lingchen
 
-<!--
+### Group A-3: Cryptanalysis 3
+- Dhiman Saha
+- Siwei Sun
+- Ferdinand Sibleyras
+- Navid Ghaedi Bardeh
+- Ye Tao
+- Yingjie Zhang
+- Yi Zhang
+- Yu Sasaki
 
-## Group 1: Cryptanalysis
-- Bill
-- Jack
+### Group B: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations
+- Rei Ueno
+- Yongzhuang Wei
+- Zhao  Haixia      
+- Bing Sun
+- Thomas Peyrin
+- Siwei Chen
+- Kazumaro Aoki
+- Gaoli Wang
 
-## Group 2: Designs 
-- John
-- Joe
+### Group C: Design and analysis of mode of operation
+- Kazuhiko Minematsu
+- Yusuke Naito
+- Akiko Inoue
+- Quan Quan
+- Jooyoung Lee
+- Wonseok Choi
+- Byeonghak Lee
+- Eik List
 
-## Group 3: proofs
-- Mike
-- Paul
-
--->
+### Group D: (Post)-Quantum symmetric-key schemes.
+- Yunwen Liu
+- Akinori Hosoyamada
+- Carlos Cid
+- Siang Meng Sim
