@@ -16,7 +16,7 @@ Groups and members of each group are as follows.
 - Orr Dunkelman
 - Subhadeep Banik
 - Zhenzhen Bao
-- Mustafa Mahmoud Mohammed Kairallah
+- Mustafa Khairallah
 - Jonathan Fuchs
 - Li Yang
 - Kazuo Sakiyama
