@@ -70,7 +70,7 @@ sidebar:
 *<b>09:00<\b> - 11:00*: Invited talk 5
 
  - A tale of 3 competitions: On cryptanalysis competitions for new use-cases of symmetric crypto
-  Christian Rechberger
+  Christian Rechberger (Graz University of Technology, Austria)
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
  - Generic Attacks on Hash Combiners
