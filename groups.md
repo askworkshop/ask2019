@@ -44,6 +44,7 @@ Groups and members of each group are as follows.
 - Yingjie Zhang
 - Yi Zhang
 - Yu Sasaki
+- Quan Quan
 
 ### Group B: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations
 ---
@@ -61,7 +62,6 @@ Groups and members of each group are as follows.
 - Kazuhiko Minematsu
 - Yusuke Naito
 - Akiko Inoue
-- Quan Quan
 - Jooyoung Lee
 - Wonseok Choi
 - Byeonghak Lee
