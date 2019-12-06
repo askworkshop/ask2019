@@ -57,5 +57,5 @@ sidebar:
 ---
 - Yusuke Naito (Mitsubishi Corporation, Japan),
   "Design of Optimally Indifferentiable-Secure Double-Block-Length Hashing"
-- Mustafa Kairallah (Nanyang Technological University, Singapore),
+- Mustafa Khairallah (Nanyang Technological University, Singapore),
   "Lightweight TBC-Based Modes for Small Hardware Implementations"
