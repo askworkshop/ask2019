@@ -11,7 +11,7 @@ sidebar:
 # Group Sessions
 Groups and members of each group are as follows.
 
-### Group A-1(Room 513): Cryptanalysis 1 
+### Group A-1 (@Room 513): Cryptanalysis 1 
 ---
 - Orr Dunkelman
 - Subhadeep Banik
@@ -23,7 +23,7 @@ Groups and members of each group are as follows.
 - Jing Yang
 - Christian Rechberger
 
-### Group A-2(Room 503): Cryptanalysis 2
+### Group A-2 (@Room 503): Cryptanalysis 2
 ---
 - Patrick Derbez
 - Willi Meier
@@ -34,7 +34,7 @@ Groups and members of each group are as follows.
 - Zejun Xiang
 - LI  Lingchen
 
-### Group A-3(Room: 504): Cryptanalysis 3
+### Group A-3(@Room: 504): Cryptanalysis 3
 ---
 - Dhiman Saha
 - Siwei Sun
@@ -45,7 +45,7 @@ Groups and members of each group are as follows.
 - Yu Sasaki
 - Quan Quan
 
-### Group B: Primitive design (Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
+### Group B: Primitive design (@Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
 ---
 - Rei Ueno
 - Yongzhuang Wei
@@ -56,7 +56,7 @@ Groups and members of each group are as follows.
 - Kazumaro Aoki
 - Gaoli Wang
 
-### Group C (Room: 502): Design and analysis of mode of operation
+### Group C (@Room: 502): Design and analysis of mode of operation
 ---
 - Kazuhiko Minematsu
 - Yusuke Naito
@@ -66,7 +66,7 @@ Groups and members of each group are as follows.
 - Byeonghak Lee
 - Eik List
 
-### Group D(Room: 501): (Post)-Quantum symmetric-key schemes
+### Group D (@Room: 501): (Post)-Quantum symmetric-key schemes
 ---
 - Yunwen Liu
 - Akinori Hosoyamada
