@@ -21,8 +21,8 @@ sidebar:
 
  - Fault model and attack efficiency of physical attacks,
   Kazuo Sakiyama (The University of Electro-Communications, Japan)
- - Domain Specific Ciphers,
-  Carlos Cid (Royal Holloway, University of London, UK)
+ - A tale of 3 competitions: On cryptanalysis competitions for new use-cases of symmetric crypto,
+  Christian Rechberger (Graz University of Technology, Austria)
  - Towards a better understanding of (post-)quantum security of symmetric key schemes,
   Akinori Hosoyamada (NTT, Japan)
  
@@ -69,8 +69,8 @@ sidebar:
 
 *09:00 - 11:00*: Invited talk 5
 
- - A tale of 3 competitions: On cryptanalysis competitions for new use-cases of symmetric crypto,
-  Christian Rechberger (Graz University of Technology, Austria)
+ - Domain Specific Ciphers,
+  Carlos Cid (Royal Holloway, University of London, UK)
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
  - Generic Attacks on Hash Combiners
