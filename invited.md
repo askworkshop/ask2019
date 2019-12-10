@@ -9,9 +9,9 @@ sidebar:
     nav: "docs"
 ---
 
-### Invited talk will be held at Room 720, and invited speakers are as follows.
 
-# Confirmed Invited Speakers
+
+# Confirmed Invited Speakers (@Room: 720)
 ### invited talk1 (9:30 ~ 11:00 on Dec 13th)
 ---
 - Kazuo Sakiyama (The University of Electro-Communications, Japan),
