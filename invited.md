@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-Invited talk will be held at Room 720, and invited speakers are as follows.
+<h1>Invited talk will be held at Room 720, and invited speakers are as follows.<\h1>
 
 # Confirmed Invited Speakers
 ### invited talk1 (9:30 ~ 11:00 on Dec 13th)
