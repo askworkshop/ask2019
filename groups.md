@@ -44,13 +44,13 @@ Groups and members of each group are as follows.
 - Yingjie Zhang
 - Yi Zhang
 - Yu Sasaki
-- Quan Quan
+- Quan Quan Tan
 
 ### Group B: Primitive design (@Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
 ---
 - Rei Ueno
 - Yongzhuang Wei
-- Zhao  Haixia      
+- Haixia Zhao      
 - Bing Sun
 - Thomas Peyrin
 - Kazumaro Aoki
