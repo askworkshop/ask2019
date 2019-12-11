@@ -32,7 +32,8 @@ Groups and members of each group are as follows.
 - Lenka Marekova
 - Reinhard Lüftenegger
 - Zejun Xiang
-- LI  Lingchen
+- Li  Lingchen
+- Siwei Chen
 
 ### Group A-3(@Room: 504): Cryptanalysis 3
 ---
@@ -52,7 +53,6 @@ Groups and members of each group are as follows.
 - Zhao  Haixia      
 - Bing Sun
 - Thomas Peyrin
-- Siwei Chen
 - Kazumaro Aoki
 - Gaoli Wang
 
