@@ -17,7 +17,7 @@ sidebar:
 ---
 ## Friday, 13th December 2019
 
-*09:00 - 09:30*: Registration
+*09:00 - 09:30*: Registration  
 *09:30 - 11:00*: Invited talk 1 @Room:720  
 
  - Fault model and attack efficiency of physical attacks,
