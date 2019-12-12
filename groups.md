@@ -32,7 +32,7 @@ Groups and members of each group are as follows.
 - Lenka Marekova
 - Reinhard Lüftenegger
 - Zejun Xiang
-- Li  Lingchen
+- Lingchen Li
 - Siwei Chen
 
 ### Group A-3(@Room: 504): Cryptanalysis 3
