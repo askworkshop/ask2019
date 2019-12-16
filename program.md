@@ -47,6 +47,8 @@ sidebar:
 
  - Cryptanalysis of Lightweight Block Ciphers: Theory Meets Dependencies,
   Orr Dunkelman (University of Haifa, Israel)
+  [<a href="../assets/slides/Independence.pdf" target="_blank">slide</a>]
+
  - Detection of data corruption via combinatorial group testing and beyond,
   Kazuhiko Minematsu (NEC, Japan)
  - Hardware Implementation of Block Cipher: Case Study Using AES,
@@ -74,8 +76,10 @@ sidebar:
   Carlos Cid (Royal Holloway, University of London, UK)
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
+  [<a href="../assets/slides/ASK2019.pdf" target="_blank">slide</a>]
  - Generic Attacks on Hash Combiners
   Zhenzhen Bao (Nanyang Technological University, Singapore)
+  [<a href="../assets/slides/Generic_Attacks_on_Hash_Combiners_Slides.pdf" target="_blank">slide</a>]
  - Rotational-XOR cryptanalysis on ARX and AND-RX ciphers,
   Yunwen Liu (National University of Defense Technology, China)
   
