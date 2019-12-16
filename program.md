@@ -79,7 +79,7 @@ sidebar:
   [<a href="../assets/slides/ASK2019.pdf" target="_blank">slide</a>]
  - Generic Attacks on Hash Combiners
   Zhenzhen Bao (Nanyang Technological University, Singapore)
-  <b>[<a href="../assets/slides/Generic_Attacks_on_Hash_Combiners_Slides.pdf" target="_blank">slide</a>]<\b>
+  <b>[<a href="../assets/slides/Generic_Attacks_on_Hash_Combiners_Slides.pdf" target="_blank">slide</a>]
  - Rotational-XOR cryptanalysis on ARX and AND-RX ciphers,
   Yunwen Liu (National University of Defense Technology, China)
   
