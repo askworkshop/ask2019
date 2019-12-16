@@ -47,7 +47,7 @@ sidebar:
 
  - Cryptanalysis of Lightweight Block Ciphers: Theory Meets Dependencies,
   Orr Dunkelman (University of Haifa, Israel)
-  [<a href="../assets/slides/Independence.pdf" target="_blank">slide</a>]
+  <b>[<a href="../assets/slides/Independence.pdf" target="_blank">slide</a>]
 
  - Detection of data corruption via combinatorial group testing and beyond,
   Kazuhiko Minematsu (NEC, Japan)
@@ -76,7 +76,7 @@ sidebar:
   Carlos Cid (Royal Holloway, University of London, UK)
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
-  [<a href="../assets/slides/ASK2019.pdf" target="_blank">slide</a>]
+  <b>[<a href="../assets/slides/ASK2019.pdf" target="_blank">slide</a>]
  - Generic Attacks on Hash Combiners
   Zhenzhen Bao (Nanyang Technological University, Singapore)
   <b>[<a href="../assets/slides/Generic_Attacks_on_Hash_Combiners_Slides.pdf" target="_blank">slide</a>]
@@ -88,7 +88,7 @@ sidebar:
 
  - Design of Optimally Indifferentiable-Secure Double-Block-Length Hashing,
   Yusuke Naito (Mitsubishi Corporation, Japan)
-  [<a href="../assets/slides/Naito_ASK2019.pdf" target="_blank">slide</a>]
+  <b>[<a href="../assets/slides/Naito_ASK2019.pdf" target="_blank">slide</a>]
  - Lightweight TBC-Based Modes for Small Hardware Implementations,
   Mustafa Khairallah (Nanyang Technological University, Singapore)
   
