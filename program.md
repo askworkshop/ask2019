@@ -61,6 +61,8 @@ sidebar:
   Subhadeep Banik (EPFL, Switzerland)
  - Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS,
   Siwei Sun (Chinese Academy of Sciences, China)
+  <b>[<a href="../assets/slides/MORUS.pdf" target="_blank">slide</a>]
+
   
 *12:30 - 13:30*: Lunch  @Room: 719  
 *13:30 - 15:30*: Group work  @Room: 501, 502, 503, 504, 505, 513  
