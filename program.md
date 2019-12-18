@@ -50,9 +50,9 @@ sidebar:
  - Cryptanalysis of Lightweight Block Ciphers: Theory Meets Dependencies,
   Orr Dunkelman (University of Haifa, Israel)
   <b>[<a href="../assets/slides/Independence.pdf" target="_blank">slide</a>]
-
  - Detection of data corruption via combinatorial group testing and beyond,
   Kazuhiko Minematsu (NEC, Japan)
+  <b>[<a href="../assets/slides/slide_ask19.pdf" target="_blank">slide</a>]
  - Hardware Implementation of Block Cipher: Case Study Using AES,
   Rei Ueno (Tohoku University, Japan)
   
