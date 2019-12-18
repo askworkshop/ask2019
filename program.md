@@ -32,6 +32,8 @@ sidebar:
 
  - Cryptanalysis of Reduced Gimli-Hash,
   Fukang Liu (University of Hyogo, Japan)
+  <b>[<a href="../assets/slides/Gimli.pdf" target="_blank">slide</a>]
+
  - SHA-1: Beating a Dead Horse,
   Thomas Peyrin (Nanyang Technological University, Singapore)
  
