@@ -54,7 +54,8 @@ sidebar:
   <b>[<a href="../assets/slides/slide_ask19.pdf" target="_blank">slide</a>]
  - Hardware Implementation of Block Cipher: Case Study Using AES,
   Rei Ueno (Tohoku University, Japan)
-  
+  <b>[<a href="../assets/slides/ASK2019-ueno.pdf" target="_blank">slide</a>]
+
 *11:00 - 11:30*: Coffee break  @Room: 719  
 *11:30 - 12:30*: Invited talk 4  @Room: 720  
 
@@ -78,6 +79,7 @@ sidebar:
 
  - Domain Specific Ciphers,
   Carlos Cid (Royal Holloway, University of London, UK)
+  <b>[<a href="../assets/slides/ccid-ask2019-talk.pdf" target="_blank">slide</a>]
  - Cube Attacks on KECCAK Keyed Modes,
   Willi Meier (FHNW, Switzerland)
   <b>[<a href="../assets/slides/ASK2019.pdf" target="_blank">slide</a>]
