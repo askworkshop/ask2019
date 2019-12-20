@@ -33,7 +33,6 @@ sidebar:
  - Cryptanalysis of Reduced Gimli-Hash,
   Fukang Liu (University of Hyogo, Japan)
   <b>[<a href="../assets/slides/Gimli.pdf" target="_blank">slide</a>]
-
  - SHA-1: Beating a Dead Horse,
   Thomas Peyrin (Nanyang Technological University, Singapore)
  
@@ -62,7 +61,6 @@ sidebar:
  - Cryptanalysis of Stream Ciphers with short internal states,
   Subhadeep Banik (EPFL, Switzerland)
   <b>[<a href="../assets/slides/ppl2.pdf" target="_blank">slide</a>]
-
  - Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS,
   Siwei Sun (Chinese Academy of Sciences, China)
   <b>[<a href="../assets/slides/MORUS.pdf" target="_blank">slide</a>]
