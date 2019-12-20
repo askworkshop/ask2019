@@ -61,6 +61,8 @@ sidebar:
 
  - Cryptanalysis of Stream Ciphers with short internal states,
   Subhadeep Banik (EPFL, Switzerland)
+  <b>[<a href="../assets/slides/ppl2.pdf" target="_blank">slide</a>]
+
  - Correlation of Quadratic Boolean Functions: Cryptanalysis of All Versions of Full MORUS,
   Siwei Sun (Chinese Academy of Sciences, China)
   <b>[<a href="../assets/slides/MORUS.pdf" target="_blank">slide</a>]
@@ -95,6 +97,8 @@ sidebar:
   <b>[<a href="../assets/slides/Naito_ASK2019.pdf" target="_blank">slide</a>]
  - Lightweight TBC-Based Modes for Small Hardware Implementations,
   Mustafa Khairallah (Nanyang Technological University, Singapore)
+  <b>[<a href="../assets/slides/presentation_1.pdf" target="_blank">slide</a>]
+
   
 *12:30 - 13:30*: Lunch  @Room: 719   
 *13:30 - 15:30*: Group work  @Room: 501, 502, 503, 504, 505, 513   
