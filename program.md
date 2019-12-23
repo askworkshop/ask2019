@@ -88,7 +88,8 @@ sidebar:
   <b>[<a href="../assets/slides/Generic_Attacks_on_Hash_Combiners_Slides.pdf" target="_blank">slide</a>]
  - Rotational-XOR cryptanalysis on ARX and AND-RX ciphers,
   Yunwen Liu (National University of Defense Technology, China)
-  
+  <b>[<a href="../assets/slides/ask2019talk_yunwenliu.pdf" target="_blank">slide</a>]
+
 *11:00 - 11:30*: Coffee break  @Room: 719   
 *11:30 - 12:30*: Invited talk 6  @Room: 720   
 
