@@ -26,6 +26,7 @@ sidebar:
   Christian Rechberger (Graz University of Technology, Austria)
  - Towards a better understanding of (post-)quantum security of symmetric key schemes,
   Akinori Hosoyamada (NTT, Japan)
+  <b>[<a href="../assets/slides/hsymd.pdf" target="_blank">slide</a>]
  
 *11:00 - 11:30*: Coffee break @Room: 719  
 *11:30 - 12:30*: Invited talk 2 @Room: 720  
